@@ -9,7 +9,7 @@ manohar3/manohar3 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Blogs
+**My Blog posts**
 
 https://medium.com/@y2kmcmanohar/apache-pinot-to-stream-avro-data-from-kafka-over-ssl-fe801ec2326e
 https://medium.com/@y2kmcmanohar/introduction-to-start-dockerized-neo4j-and-connect-to-vertica-db-cd2227f40bfd
