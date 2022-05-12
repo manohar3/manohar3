@@ -16,3 +16,7 @@ https://medium.com/@y2kmcmanohar/apache-pinot-to-stream-avro-data-from-kafka-ove
 https://medium.com/@y2kmcmanohar/introduction-to-start-dockerized-neo4j-and-connect-to-vertica-db-cd2227f40bfd
 
 https://medium.com/@y2kmcmanohar/hadoop-delegation-token-types-ae2a204d4953
+
+https://www.linkedin.com/pulse/monitor-elasticsearch-logstash-instances-kubernetes-manohar-chamaraju/
+
+https://www.linkedin.com/pulse/wrapping-symmetric-key-manohar-chamaraju/
